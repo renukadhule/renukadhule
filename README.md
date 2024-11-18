@@ -1,11 +1,11 @@
 ## 👋 Hello! I'm Renuka Dhule
   ## 🔍About Me 
-  • 🎓A passionate About Data Analyst.</br>
-  • 💡I specialize in SQL, Python, and data visualization tools like Tableau, Power BI and Excel.</br>
-  • 📊I focus on developing interactive dashboards that help in making data-driven decisions.
+  • 🎓Aspiring Data Analyst passionate about turning raw data into actionable insights.</br>
+  • 💡Skilled in SQL, Python, and data visualization tools like Tableau, Power BI, and Excel.</br>
+  • 📊Focused on developing interactive dashboards to drive data-driven decision-making.
   
   
   ## 🛠️Skills
   • Visualization Tools : Tableau, Power BI and Excel.</br>
-  • Knowledge & Expertise : SQL, Python, Google Colab.</br>
+  • Data Expertise : SQL, Python, Google Colab.</br>
 
