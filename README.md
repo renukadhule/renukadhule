@@ -7,15 +7,18 @@
   
   ## 🛠️Skills
   • Visualization Tools : Tableau, Power BI and Excel.</br>
-  • Data Expertise : SQL, Python, Google Colab.</br>
+  • Data Expertise : SQL, Python, Jupyter Notebook.</br>
+  • DataBase : MySQL
 
 
 
 
 
 
-### 📬 Explore My Profiles
+## 📬 Explore My Profiles
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renuka-dhule-50545b249/)](https://www.linkedin.com/in/renuka-dhule-50545b249/) 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/renukadhule/)](https://github.com/renukadhule) 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renukaadhule@gmail.com)](mailto:renukaadhule@gmail.com)
+
 
 
