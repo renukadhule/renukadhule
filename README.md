@@ -5,7 +5,7 @@
   • 📊Focused on developing interactive dashboards to drive data-driven decision-making.
   
   
-  ## 🛠️Skills
+  ## 🛠️Tools
   • Visualization Tools : Tableau, Power BI and Excel.</br>
   • Data Expertise : SQL, Python, Jupyter Notebook.</br>
   • DataBase : MySQL
